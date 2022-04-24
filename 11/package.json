@@ -1,0 +1,9 @@
+{
+    "name": "hw-11",
+    "version": "1.0.0",
+    "main": "2.js",
+    "license": "MIT",
+    "dependencies": {
+        "ioredis": "^5.0.4"
+    }
+}
